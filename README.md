@@ -1,2 +1,12 @@
 # VerifyParameter
 参数验证帮助类
+
+提供验证类：
+1.DisplayAttribute中Name映射字段名称
+2.ObjectAttribute中提供3种验证MaxLength、MinLength、IsNotNull，有对应的Error字段
+3.RegularExpressionAttribute中提供正则表达式验证，其中EnumRegexCommonData中提供了一些常用验证
+4.预留事件：VerifyParameterManage.EventVerifyParameter，以后扩展用
+
+Demon项目：ParameterVerify
+
+初学乍道，看完MVC的验证方式，再优化
