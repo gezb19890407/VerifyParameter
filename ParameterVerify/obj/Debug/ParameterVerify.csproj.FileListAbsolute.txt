@@ -1,0 +1,10 @@
+H:\study\验证\参数验证\ParameterVerify\bin\Debug\ParameterVerify.exe
+H:\study\验证\参数验证\ParameterVerify\bin\Debug\ParameterVerify.pdb
+H:\study\验证\参数验证\ParameterVerify\bin\Debug\VerigyParameter.dll
+H:\study\验证\参数验证\ParameterVerify\bin\Debug\VerigyParameter.pdb
+H:\study\验证\参数验证\ParameterVerify\obj\Debug\ParameterVerify.csprojResolveAssemblyReference.cache
+H:\study\验证\参数验证\ParameterVerify\obj\Debug\ParameterVerify.Properties.Resources.resources
+H:\study\验证\参数验证\ParameterVerify\obj\Debug\ParameterVerify.csproj.GenerateResource.Cache
+H:\study\验证\参数验证\ParameterVerify\obj\Debug\ParameterVerify.exe
+H:\study\验证\参数验证\ParameterVerify\obj\Debug\ParameterVerify.pdb
+H:\study\验证\参数验证\ParameterVerify\obj\Debug\ParameterVerify.VerifyDemo.resources

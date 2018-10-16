@@ -1,0 +1,5 @@
+H:\study\验证\参数验证\VerigyParameter\bin\Debug\VerigyParameter.dll
+H:\study\验证\参数验证\VerigyParameter\bin\Debug\VerigyParameter.pdb
+H:\study\验证\参数验证\VerigyParameter\obj\Debug\VerifyParameter.csprojResolveAssemblyReference.cache
+H:\study\验证\参数验证\VerigyParameter\obj\Debug\VerigyParameter.dll
+H:\study\验证\参数验证\VerigyParameter\obj\Debug\VerigyParameter.pdb
