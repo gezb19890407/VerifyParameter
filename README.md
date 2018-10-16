@@ -1,6 +1,7 @@
 # VerifyParameter
 参数验证帮助类
 
+
 提供验证类：
 1.DisplayAttribute中Name映射字段名称
 2.ObjectAttribute中提供3种验证MaxLength、MinLength、IsNotNull，有对应的Error字段
